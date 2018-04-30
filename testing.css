@@ -1,0 +1,38 @@
+body{
+background-image: url(wallp.jpg);
+background-repeat: no-repeat;
+background-position: center;
+background-size:cover;
+background-attachment: fixed;
+}
+p.head{
+	color: white;
+	font-size:2em;
+	font-family: Tempus Sans ITC;
+	text-align:center;
+	top: 10em;
+	}
+p.headtwo{
+	color: white;
+	font-size:1.2em;
+	text-align:center;
+	top: 10em;
+	}
+p.h{
+	color: white;
+	font-size:1em;
+	text-align:left;
+	text-decoration: underline;
+	margin-left: 2em;
+	}
+p.hp{
+	color: black;
+	font-size:1em;
+	text-align:left;
+	margin-left: 2em;
+	}
+td,th{
+	color: white;
+	border-radius:8em;
+	text-align: left;
+}
